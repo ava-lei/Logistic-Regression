@@ -1,0 +1,2 @@
+# Logistic-Regression
+read csv files into dataframe | basic exploration of dataframe property | determine target & feature variables | check and handle missing values | plot count plots | convert categorical variables into dummy variables | partition data into training and testing data | fit training data into logistic regression | predict outcomes for the test set | get prediction's accuracy and confusion matrix
